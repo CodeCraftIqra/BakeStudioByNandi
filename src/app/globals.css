@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: #FAF6F0;
+    --foreground: #2C180B;
+  }
+}
+
+@theme {
+  --font-serif: var(--font-serif), Georgia, serif;
+  --font-sans: var(--font-sans), system-ui, sans-serif;
+}
+
+/* Custom Smooth Utilities & Glassmorphism */
+.glass-nav {
+  background: rgba(250, 246, 240, 0.88);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.glass-card {
+  background: rgba(255, 253, 249, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #D4AF37 0%, #C59B27 50%, #9A7B1C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #E5BA42 0%, #D4AF37 50%, #C59B27 100%);
+}
+
+.bg-gold-gradient-hover:hover {
+  background: linear-gradient(135deg, #F4CE58 0%, #E5BA42 50%, #D4AF37 100%);
+}
+
+.shadow-bakery {
+  box-shadow: 0 10px 30px -5px rgba(74, 46, 25, 0.08), 0 4px 12px -2px rgba(74, 46, 25, 0.04);
+}
+
+.shadow-bakery-lg {
+  box-shadow: 0 20px 40px -10px rgba(74, 46, 25, 0.12), 0 8px 20px -4px rgba(74, 46, 25, 0.08);
+}
