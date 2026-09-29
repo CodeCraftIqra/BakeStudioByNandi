@@ -105,6 +105,10 @@ BakeStudioByNandi's/
 
 <img width="1896" height="897" alt="image" src="https://github.com/user-attachments/assets/a11946f7-a713-453b-80d6-c8e04c3adb4c" />
 
+<img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/78db4b1c-2f8d-411f-b111-7ce20a09dc06" />
+
+<img width="1883" height="898" alt="image" src="https://github.com/user-attachments/assets/144b2938-8cc9-42f9-ba3e-7c024a560bc1" />
+
 
 ---
 
