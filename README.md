@@ -103,7 +103,8 @@ BakeStudioByNandi's/
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
+<img width="1896" height="897" alt="image" src="https://github.com/user-attachments/assets/a11946f7-a713-453b-80d6-c8e04c3adb4c" />
+
 
 ---
 
